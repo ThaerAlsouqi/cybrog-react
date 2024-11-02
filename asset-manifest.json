@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/cybrog-react/static/css/main.d3c2d10d.css",
+    "main.js": "/cybrog-react/static/js/main.7bfbc4bd.js",
+    "static/media/League-of-Legends-Logo.png": "/cybrog-react/static/media/League-of-Legends-Logo.bf9d4e78806c499609be.png",
+    "static/media/pubg.png.png": "/cybrog-react/static/media/pubg.png.44a0d0b8b06602e53db3.png",
+    "static/media/feature-right.jpg": "/cybrog-react/static/media/feature-right.01ad26795580300e2029.jpg",
+    "static/media/feature-left.jpg": "/cybrog-react/static/media/feature-left.2e7e18e857172344a46d.jpg",
+    "static/media/CS_GO Cheats.jpg": "/cybrog-react/static/media/CS_GO Cheats.16f02b9810db16eb45e9.jpg",
+    "static/media/discord_valorant_logo_by_akibanax_de0tyoh-pre.jpg": "/cybrog-react/static/media/discord_valorant_logo_by_akibanax_de0tyoh-pre.92c5f22336ab60bc2302.jpg",
+    "static/media/details-02.jpg": "/cybrog-react/static/media/details-02.4c3a5cf3e64cb6cc18f5.jpg",
+    "static/media/details-01.jpg": "/cybrog-react/static/media/details-01.512d609b582f424c56d4.jpg",
+    "static/media/valoimage.jpg": "/cybrog-react/static/media/valoimage.9a8938d63c5469c87758.jpg",
+    "static/media/lolimage.jpg": "/cybrog-react/static/media/lolimage.9be4339e0712dc7d7c19.jpg",
+    "static/media/dota2image.png": "/cybrog-react/static/media/dota2image.2e4f70379d1a952a40c3.png",
+    "static/media/banner-bg.jpg": "/cybrog-react/static/media/banner-bg.f41cb78948354a14694e.jpg",
+    "static/media/details-03.jpg": "/cybrog-react/static/media/details-03.bf3139dd9cfd79917542.jpg",
+    "static/media/cs-goimage.png": "/cybrog-react/static/media/cs-goimage.9f102a6a1cdcdfa12206.png",
+    "static/media/Fortnite-logo-png.png": "/cybrog-react/static/media/Fortnite-logo-png.c82495e91e223a6b8d18.png",
+    "static/media/fortniteimage.jpg": "/cybrog-react/static/media/fortniteimage.947d17e42df6db5baee7.jpg",
+    "static/media/Edition Cs Go Sticker _ Csgo.jpg": "/cybrog-react/static/media/Edition Cs Go Sticker _ Csgo.6ad1a87d242ffca575ca.jpg",
+    "index.html": "/cybrog-react/index.html",
+    "main.d3c2d10d.css.map": "/cybrog-react/static/css/main.d3c2d10d.css.map",
+    "main.7bfbc4bd.js.map": "/cybrog-react/static/js/main.7bfbc4bd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3c2d10d.css",
+    "static/js/main.7bfbc4bd.js"
+  ]
+}
