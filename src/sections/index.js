@@ -1,0 +1,8 @@
+export {default as Header} from "./Header/Header"
+export {default as Footer} from "../sections/Footer/Footer"
+export {default as Hero} from "../sections/Hero/Hero"
+export {default as MostPopular} from "../sections/MostPopular/MostPopular"
+export {default as ContactForm} from "../sections/ContactForm/ContactForm"
+export {default as GamingLibrary} from "../sections/GamingLibrary/GamingLibrary"
+export {default as FeaturedGames} from "../sections/FeaturedGames/FeaturedGames"
+export {default as FortniteDetails} from "./FortniteDetails/FortniteDetails"

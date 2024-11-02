@@ -1,0 +1,138 @@
+.feature-banner .thumb {
+  position: relative;
+  max-height: 305px;
+  overflow: hidden;
+  border-radius: 23px;;
+}
+
+.feature-banner .thumb a {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-110px, -23px);
+  width: 46px;
+  height: 46px;
+  background-color: #fff;
+  border-radius: 50%;
+  display: inline-block;
+  text-align: center;
+  line-height: 46px;
+  color: #ec6090;
+}
+
+.game-details h2 {
+    font-size: 45px;
+    font-weight: 700;
+    text-transform: uppercase;
+    text-align: center;
+    margin: 60px 0px;
+  }
+  .game-details .content {
+    border-radius: 23px;
+    padding: 30px;
+    background-color: #1f2122;
+  }
+  
+  .game-details .content .left-info {
+    background-color: #27292a;
+    border-radius: 23px;
+    padding: 30px;
+    margin-bottom: 30px;
+  }
+  
+  .game-details .content .left-info .left {
+    float: left;
+  }
+  
+  .game-details .content .left-info h4 {
+    font-size: 15px;
+    display: block;
+  }
+  
+  .game-details .content .left-info span {
+    color: #666;
+    display: block;
+    margin-top: 7px;
+    font-weight: 400;
+  }
+  
+  .game-details .content .left-info ul {
+    text-align: right;
+  }
+  
+  .game-details .content .left-info ul li {
+    color: #fff;
+    font-size: 14px;
+    margin-bottom: 3px;
+  }
+  
+  .game-details .content .left-info ul li:first-child i {
+    color: yellow;
+  }
+  
+  .game-details .content .left-info ul li:last-child i {
+    color: #ec6090;
+  }
+  
+  .game-details .content .right-info {
+    background-color: #27292a;
+    border-radius: 23px;
+    padding: 30px;
+    margin-bottom: 30px;
+  }
+  
+  .game-details .content .right-info ul li {
+    display: inline-block;
+    width: 23%;
+    text-align: center;
+    font-size: 14px;
+    color: #fff;
+  }
+  
+  .game-details .content .right-info ul li i {
+    display: block;
+    margin-bottom: 12px;
+  }
+  
+  .game-details .content .right-info ul li:first-child i {
+    color: yellow;
+  } 
+  
+  .game-details .content .right-info ul li i {
+    color: #ec6090;
+  }
+  
+  .game-details .main-border-button {
+    margin-top: 35px;
+  }
+  
+  .game-details .main-border-button a {
+    text-align: center;
+    width: 100%;
+  } 
+
+  .main-border-button a:hover {
+    border-color: #fff;
+    background-color: #fff;
+    color: #e75e8d;
+  }
+  .main-border-button a {
+    font-size: 14px;
+    color: #ec6090;
+    background-color: transparent;
+    border: 1px solid #ec6090;
+      border-top-color: rgb(236, 96, 144);
+      border-right-color: rgb(236, 96, 144);
+      border-bottom-color: rgb(236, 96, 144);
+      border-left-color: rgb(236, 96, 144);
+    padding: 12px 30px;
+    display: inline-block;
+    border-radius: 25px;
+    font-weight: 400;
+    text-transform: capitalize;
+    letter-spacing: 0.5px;
+    transition: all .3s;
+    position: relative;
+    overflow: hidden;
+  }
+

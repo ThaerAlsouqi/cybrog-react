@@ -1,0 +1,8 @@
+.cyborg-navbar {
+    min-height: 100px;
+}
+
+.nav-link:hover,.active{
+    color: #ec6090 !important;
+}
+
