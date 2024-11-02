@@ -7,7 +7,7 @@ import {Header,Footer} from "./sections/index"
 import {Home,Browse,ContactUs,Details} from "./Pages/index"
 import {Container} from "./Components/index"
 
-import { BrowserRouter as Router, Route, Routes, Navigate } from "react-router-dom"
+import { HashRouter as Router, Route, Routes, Navigate } from "react-router-dom"
 
 const App =()=>{
     return(
