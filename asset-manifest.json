@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/cybrog-react/static/css/main.d3c2d10d.css",
-    "main.js": "/cybrog-react/static/js/main.4accbf8b.js",
+    "main.js": "/cybrog-react/static/js/main.95878046.js",
     "static/media/League-of-Legends-Logo.png": "/cybrog-react/static/media/League-of-Legends-Logo.bf9d4e78806c499609be.png",
     "static/media/pubg.png.png": "/cybrog-react/static/media/pubg.png.44a0d0b8b06602e53db3.png",
     "static/media/feature-right.jpg": "/cybrog-react/static/media/feature-right.01ad26795580300e2029.jpg",
@@ -21,10 +21,10 @@
     "static/media/Edition Cs Go Sticker _ Csgo.jpg": "/cybrog-react/static/media/Edition Cs Go Sticker _ Csgo.6ad1a87d242ffca575ca.jpg",
     "index.html": "/cybrog-react/index.html",
     "main.d3c2d10d.css.map": "/cybrog-react/static/css/main.d3c2d10d.css.map",
-    "main.4accbf8b.js.map": "/cybrog-react/static/js/main.4accbf8b.js.map"
+    "main.95878046.js.map": "/cybrog-react/static/js/main.95878046.js.map"
   },
   "entrypoints": [
     "static/css/main.d3c2d10d.css",
-    "static/js/main.4accbf8b.js"
+    "static/js/main.95878046.js"
   ]
 }
