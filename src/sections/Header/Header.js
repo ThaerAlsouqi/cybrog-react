@@ -19,7 +19,7 @@ const Header =()=>{
             <div className="collapse navbar-collapse" id="mainmenu">
                 <ul className="navbar-nav ms-auto">
                     <NavItem>
-                        <NavLink  to="/" activeclassname="active" className="nav-link">Home</NavLink>
+                        <NavLink  to="/home" activeclassname="active" className="nav-link">Home</NavLink>
                     </NavItem>
                     
                     <NavItem>
