@@ -11,6 +11,7 @@ const Form = () => {
     register,
     formState: { errors },
     handleSubmit,
+    reset,
   } = useForm({ mode: "all" });
 
   console.log("errors", errors);
@@ -29,6 +30,7 @@ const Form = () => {
       .then(
         () => {
           console.log("SUCCESS!");
+          reset();
         },
         (error) => {
           console.log("FAILED...", error.text);
